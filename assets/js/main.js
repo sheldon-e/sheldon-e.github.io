@@ -113,8 +113,8 @@
 					$message;
 
 			// Bail if addEventListener isn't supported.
-				if (!('addEventListener' in $form))
-					return;
+//				if (!('addEventListener' in $form))
+//					return;
 
 			// Message.
 				$message = document.createElement('span');
